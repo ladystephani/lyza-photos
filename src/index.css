@@ -241,7 +241,7 @@ textarea {
 }
 
 .modalBackdrop {
-  background: rgba(0, 0, 0, 0.65);
+  background: rgba(0, 0, 0, 0.057);
   bottom: 0;
   left: 0;
   overflow: auto;
@@ -252,7 +252,7 @@ textarea {
 }
 
 .modalContainer {
-  background: var(--darker);
+  background: var(--secondary);
   border-radius: 5px;
   max-width: 100%;
   margin: 50px auto;
